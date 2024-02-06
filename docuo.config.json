@@ -3,16 +3,19 @@
   "favicon": "image/favicon.ico",
   "themeConfig": {
     "navbar": {
-      "title": "My project",
-      "logo": "image/logo.png",
+      "title": "VocabVerse",
+      "logo": "https://media-resource.spreading.io/docuo/workspace71/cab41d079cf776b639456b03afce2658/logo.png",
       "items": [
         {
           "type": "docSidebar",
-          "sidebarIds": ["mySidebar"],
+          "sidebarIds": [
+            "mySidebar"
+          ],
           "label": "Documentation",
           "position": "left"
         }
-      ]
+      ],
+      "iconRedirectUrl": ""
     },
     "footer": {
       "logo": "image/logo.png",
